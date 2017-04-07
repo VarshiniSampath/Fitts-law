@@ -545,7 +545,7 @@ var fittsTest = {
 	updatePlots: function(that) {
         
         // Logging the current width, the time taken during this experiment and experiments conducted so far.
-        console.log("Width:" + (currentRadius*2);
+        console.log("Width:" + (currentRadius*2));
         console.log(currentTimes);
         
         //Push the results of this experiment to the overall results array.
